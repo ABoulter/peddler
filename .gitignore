@@ -19,3 +19,10 @@ yarn-error.log
 /.idea
 /.vscode
 /resources/views/admin-template
+/resources/views/frontend-template
+*.png
+*.jpg
+*.gif
+*.woff
+*.ttf
+*.woff2
